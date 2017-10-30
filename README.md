@@ -34,6 +34,10 @@ Execução do Sails:
    - Entrar na pasta do extent community e executar “sails lift”
    - Irá gerar a porta do serviço - acessar para ver relatório ExtentX
 
+# Servidores 
+   - Servidor ExtentX: http://localhost:1337/#/
+   - Servidor MongoDB (valida execução): http://localhost:27017
+
 
 
 Java example: https://github.com/saikrishna321/extent_reports/blob/master/src/test/java/com/test/sample/ExtentManager.java
