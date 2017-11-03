@@ -37,6 +37,11 @@ Execução do Sails:
 # Servidores 
    - Servidor ExtentX: http://localhost:1337/#/
    - Servidor MongoDB (valida execução): http://localhost:27017
+   
+# Monitoração dos dados de execução
+   - Instalar RoboMongo: https://robomongo.org/
+   - Realizar conexão local (porta 27017)
+   - As informações do relatório estarão disponíveis para alterar/excluir
 
 
 
