@@ -1,4 +1,4 @@
-# extent3-test (em construção)
+# extent3-test (PROJETO DESCONTINUADO)
 Projeto com exemplo da aplicação do recurso ExtentX e ExtentReport3
 
 
